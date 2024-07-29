@@ -1,2 +1,12 @@
 # swmm-lisflood-coupling-public
-SWMM和Lisflood的耦合实践，开源版本会对一些核心的耦合算法隐藏，研究这个纯属个人兴趣，并非专业水文工作者
+SWMM和Lisflood的耦合实践，开源版本会对一些核心的耦合算法隐藏
+目前处于阅读SWMM和Lisflood源码阶段
+
+以下暂定更新计划：
+- 先将SWMM的C语言源码转为C++后  推送；
+- Lisflood源码整合，重构  推送
+- SWMM-Lisflood耦合  推送
+- 尝试优化SWMM和Lisflood的源码  推送
+- 后续看学习情况优化
+
+因为本人并非从事水文方面研究，因此对于水文方面的知识量积累有所欠缺，可能后续推送部分地方存在缺陷，请大家提点。

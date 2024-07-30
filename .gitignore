@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# custom add .gitignore
+.vscode
+target

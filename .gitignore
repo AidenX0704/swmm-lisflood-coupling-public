@@ -34,3 +34,8 @@
 # custom add .gitignore
 .vscode
 target
+
+/build
+/cmake-build-debug
+.idea
+
